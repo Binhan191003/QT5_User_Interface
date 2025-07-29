@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="fileAnh">
+    <file>HCMUTE .png</file>
+    <file>background.jpg</file>
+    <file>Khach_AC _1.png</file>
+    <file>Khach_AC _2.png</file>
+    <file>Khach_AC _OFF.png</file>
+    <file>Khach_Lamp_OFF.png</file>
+    <file>Khach_Lamp_ON.png</file>
+    <file>Khach_TV_OFF.png</file>
+    <file>Khach_TV_ON.png</file>
+    <file>transparent_background_1920x1080.png</file>
+    <file>Khach_TV_CN1.png</file>
+    <file>Khach_TV_CN2.png</file>
+    <file>Khach_TV_CN3.png</file>
+  </qresource>
+</RCC>
